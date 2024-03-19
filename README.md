@@ -7,4 +7,4 @@ The second Assignment involves using texture mapping to add colors to the images
 
 The third assignment builds Monte Carlo with different sampling methods. 
 
-Report is available in each of the assignments.
+Report is available in each of the assignments along witht he problem statements
